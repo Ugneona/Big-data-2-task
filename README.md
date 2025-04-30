@@ -5,7 +5,7 @@
 - `requirements.txt` – Python dependencies used in the project  
 - `Dockerfile` – Docker configuration to containerize the application  
 - `2task_bd.py` – Main Python script with Flask app and logistic regression logic  
-- DockerHub Repository: https://hub.docker.com/repository/docker/ugnekniukstaite/2-task-big-data
+- DockerHub Repository: https://hub.docker.com/repository/docker/ugnekniukstaite/2-task-big-data ; tag v1.0
 
 ---
 
