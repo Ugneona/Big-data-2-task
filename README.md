@@ -71,3 +71,6 @@ docker run -p 5000:5000 --name iris iris:latest
 
 docker push ugnekniukstaite/2-task-big-data:tagname
 -> to push the Docker image to a container registry
+
+## Additional
+When you run the Flask app, it will print two addresses to the console, but you should only use the first one: http://127.0.0.1:5000
